@@ -1,0 +1,8 @@
+.cache/torch/hub/ultralytics_yolov5_master/data/coco.yaml
+frontend/.next/cache/webpack/client-development/2.pack.gz
+frontend/.next/cache/webpack/client-development/1.pack.gz
+backend/yolov5s.pt
+backend/yolov5su.pt
+backend/__pycache__/deepface.cpython-311.pyc
+backend/__pycache__/main.cpython-311.pyc
+.cache/torch/hub/ultralytics_yolov5_master/CONTRIBUTING.md
