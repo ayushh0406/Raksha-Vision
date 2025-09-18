@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-
 export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-primary-50 to-primary-100 dark:from-dark-900 dark:to-dark-800 theme-transition">
